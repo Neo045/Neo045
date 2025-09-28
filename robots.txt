@@ -1,6 +1,0 @@
-User-agent: *
-‎Disallow: /admin/
-‎Disallow: /private/
-‎Allow: /admin/public/
-‎Sitemap: https://shihabrahman1.blogspot.com/sitemap.xml
-‎Crawl-delay: 10
