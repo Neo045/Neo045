@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@shihabrahman.056" target="blank"><img src="https://img.shields.io/twitter/follow/@shihabrahman.056?logo=twitter&style=for-the-badge" alt="@shihabrahman.056" /></a> </p>
 
-- 🔭 I’m currently working on [IPTV App Project](https://shihabrahman1.blogspot.com/2024/06/download-pre-loaded-1750-premium-iptv.html)
+- 🔭 I’m currently working on [IPTV App Project](https://shihab-one-sand.vercel.app/)
 
 - 🌱 I’m currently learning **Movie Encoding,application modding**
 
-- 👨‍💻 All of my projects are available at [https://shihabrahman1.blogspot.com/](https://shihabrahman1.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://shihabrahmanprofile.blogspot.com/](https://shihabrahmanprofile.blogspot.com/)
 
-- 📝 I regularly write articles on [https://shihabrahman1.blogspot.com/](https://shihabrahman1.blogspot.com/)
+- 📝 I regularly write articles on [https://shihabrahmanprofile.blogspot.com/](https://shihabrahmanprofile.blogspot.com/)
 
-- 📫 How to reach me **https://shihabrahman1.blogspot.com/**
+- 📫 How to reach me **https://shihabrahmanprofile.blogspot.com/**
 
-- 📄 Know about my experiences [https://shihabrahman1.blogspot.com/](https://shihabrahman1.blogspot.com/)
+- 📄 Know about my experiences [https://shihabrahmanprofile.blogspot.com/](https://shihabrahmanprofile.blogspot.com/)
 
 - ⚡ Fun fact **I Think My Life Is A Joke 🤡**
 
